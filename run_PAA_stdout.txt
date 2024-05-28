@@ -1,0 +1,193 @@
+Current time : Wed May 11 04:44:00 PDT 2022
+This is working
+
+
+python2 /opt/genepatt/programs/PrepareAA-master/PrepareAA.py -s SRR8639208 -t 24 --ref GRCh38 --fastqs /expanse/lustre/projects/csd714/edwin5588/CCLE/run_aa/SRR8639208/SRR8639208_1.fastq /expanse/lustre/projects/csd714/edwin5588/CCLE/run_aa/SRR8639208/SRR8639208_2.fastq
+
+
+total 4280802
+drwxr-sr-x 4 edwin5588 csd714      75776 Mar 14 08:54 GRCh38
+-rw-r--r-- 1 edwin5588 csd714 4605659201 Apr 13 10:17 GRCh38_indexed.tar.gz
+-rw-r--r-- 1 edwin5588 csd714         56 Apr 13 11:29 GRCh38_indexed_md5sum.txt
+drwxrwsrwx 4 edwin5588 csd714      57344 May 11 04:44 ..
+-rw-r--r-- 1 edwin5588 csd714          0 May 11 04:46 coverage.stats
+drwxr-sr-x 3 edwin5588 csd714      57344 May 11 04:46 .
+Global ref name is GRCh38
+('read length:', 100.95534709951795, 'insert size:', 274.9684055907029, 'insert std dev:', 102.79105332425692, 'max_insert:', 583.3415655634736, 'percent proper:', 0.9843517198256917, 'num_sdevs', 3)
+('coverage stats', (45.51621438573407, 49.1948857332496, 22.118136355949282, 46.955975395124625, 50.31703114896547, 24.824052167619197, 100.95534709951795, 274.9684055907029, 102.79105332425692, 0, 583.3415655634736, 4, 0.9843517198256917, 3, 112742338799), 998)
+('pair support', 4)
+chrom ratio chr1 0.9139498780217344
+chrom ratio chr1 0.9139498780217344
+chrom ratio chr1 0.9139498780217344
+chrom ratio chr1 0.9139498780217344
+chrom ratio chr1 0.9139498780217344
+chrom ratio chr1 0.9139498780217344
+chrom ratio chr1 0.9139498780217344
+chrom ratio chr1 0.9139498780217344
+chrom ratio chr1 0.9139498780217344
+chrom ratio chr1 0.9139498780217344
+chrom ratio chr1 0.9139498780217344
+chrom ratio chr1 0.9139498780217344
+chrom ratio chr1 0.9139498780217344
+chrom ratio chr1 0.9139498780217344
+chrom ratio chr1 0.9139498780217344
+chrom ratio chr1 0.9139498780217344
+chrom ratio chr1 0.9139498780217344
+chrom ratio chr1 0.9139498780217344
+chrom ratio chr1 1.3317808826790862
+chrom ratio chr2 1.2628077178975385
+chrom ratio chr2 1.2628077178975385
+chrom ratio chr2 1.2789975604346862
+chrom ratio chr2 1.2789975604346862
+chrom ratio chr2 1.2789975604346862
+chrom ratio chr2 1.2789975604346862
+chrom ratio chr3 1.2634730538922154
+chrom ratio chr3 1.2634730538922154
+chrom ratio chr3 1.2634730538922154
+chrom ratio chr4 0.8079396762031492
+chrom ratio chr4 0.8079396762031492
+chrom ratio chr4 0.8079396762031492
+chrom ratio chr4 0.8079396762031492
+chrom ratio chr4 0.8079396762031492
+chrom ratio chr4 0.8079396762031492
+chrom ratio chr4 0.8079396762031492
+chrom ratio chr4 0.8079396762031492
+chrom ratio chr4 0.8079396762031492
+chrom ratio chr5 2.0093147039254826
+chrom ratio chr5 2.0093147039254826
+chrom ratio chr5 2.0093147039254826
+chrom ratio chr5 2.0093147039254826
+chrom ratio chr5 2.0093147039254826
+chrom ratio chr5 2.0093147039254826
+chrom ratio chr5 2.0093147039254826
+chrom ratio chr5 2.0093147039254826
+chrom ratio chr5 2.0093147039254826
+chrom ratio chr5 2.0093147039254826
+chrom ratio chr5 2.0093147039254826
+chrom ratio chr5 2.0093147039254826
+chrom ratio chr5 2.0093147039254826
+chrom ratio chr5 2.0093147039254826
+chrom ratio chr5 2.0093147039254826
+chrom ratio chr5 2.0093147039254826
+chrom ratio chr5 2.0093147039254826
+chrom ratio chr6 0.8316699933466402
+chrom ratio chr6 0.8316699933466402
+chrom ratio chr6 0.8316699933466402
+chrom ratio chr6 0.8316699933466402
+chrom ratio chr6 0.8316699933466402
+chrom ratio chr6 0.8316699933466402
+chrom ratio chr7 1.31847416278554
+chrom ratio chr7 1.31847416278554
+chrom ratio chr7 1.31847416278554
+chrom ratio chr7 1.31847416278554
+chrom ratio chr7 1.31847416278554
+chrom ratio chr7 1.31847416278554
+chrom ratio chr7 1.31847416278554
+chrom ratio chr7 1.31847416278554
+chrom ratio chr7 1.31847416278554
+chrom ratio chr7 1.31847416278554
+chrom ratio chr7 1.31847416278554
+chrom ratio chr7 1.31847416278554
+chrom ratio chr7 1.31847416278554
+chrom ratio chr7 1.31847416278554
+chrom ratio chr7 1.31847416278554
+chrom ratio chr7 1.31847416278554
+chrom ratio chr7 1.31847416278554
+chrom ratio chr7 1.31847416278554
+chrom ratio chr7 1.31847416278554
+chrom ratio chr7 1.31847416278554
+chrom ratio chr7 1.31847416278554
+chrom ratio chr7 1.31847416278554
+chrom ratio chr7 1.31847416278554
+chrom ratio chr7 1.31847416278554
+chrom ratio chr7 1.31847416278554
+chrom ratio chr7 0.9507651363938789
+chrom ratio chr7 0.9507651363938789
+chrom ratio chr7 0.9507651363938789
+chrom ratio chr7 0.9507651363938789
+chrom ratio chr7 0.9507651363938789
+chrom ratio chr7 0.9507651363938789
+chrom ratio chr7 0.9507651363938789
+chrom ratio chr7 0.9507651363938789
+chrom ratio chr7 0.9507651363938789
+chrom ratio chr7 0.9507651363938789
+chrom ratio chr7 0.9507651363938789
+chrom ratio chr9 1.2279884675094257
+chrom ratio chr10 1.4635174096251944
+chrom ratio chr12 1.1299622976269683
+chrom ratio chr13 1.0
+chrom ratio chr13 0.901086715457973
+chrom ratio chr13 0.901086715457973
+chrom ratio chr13 0.901086715457973
+chrom ratio chr16 0.9099578620536706
+chrom ratio chr16 0.9099578620536706
+chrom ratio chr16 0.9099578620536706
+chrom ratio chr16 2.0518962075848304
+chrom ratio chr16 2.0518962075848304
+chrom ratio chr16 2.0518962075848304
+chrom ratio chr17 1.341760922599246
+chrom ratio chr17 1.341760922599246
+chrom ratio chr17 1.341760922599246
+chrom ratio chr17 0.9199379019738302
+chrom ratio chr18 1.264138389886893
+chrom ratio chr21 1.2503881126635619
+chrom ratio chrX 0.802173430915946
+chrom ratio chrX 0.802173430915946
+chrom ratio chrX 0.802173430915946
+chrom ratio chrX 0.802173430915946
+chrom ratio chrX 0.802173430915946
+chrom ratio chrX 0.802173430915946
+chrom ratio chrX 0.802173430915946
+chrom ratio chrX 0.802173430915946
+chrom ratio chrX 0.802173430915946
+chrom ratio chrX 0.802173430915946
+chrom ratio chrX 0.802173430915946
+chrom ratio chrX 0.802173430915946
+chrom ratio chrX 0.802173430915946
+chrom ratio chrX 0.802173430915946
+chrom ratio chrX 0.802173430915946
+chrom ratio chrX 0.802173430915946
+chrom ratio chrX 0.802173430915946
+chrom ratio chrX 0.802173430915946
+chrom ratio chrX 0.802173430915946
+chrom ratio chrX 0.802173430915946
+chrom ratio chrX 0.802173430915946
+chrom ratio chrX 0.802173430915946
+chrom ratio chrX 0.802173430915946
+chrom ratio chrX 0.802173430915946
+chrom ratio chrX 0.802173430915946
+2022-05-11 04:46:01.342444
+PrepareAA version 0.1032.4
+
+Running PrepareAA on sample: SRR8639208
+Running pipeline on /expanse/lustre/projects/csd714/edwin5588/CCLE/run_aa/SRR8639208/SRR8639208_1.fastq /expanse/lustre/projects/csd714/edwin5588/CCLE/run_aa/SRR8639208/SRR8639208_2.fastq
+/expanse/lustre/projects/csd714/edwin5588/CCLE/run_aa/SRR8639208/SRR8639208
+Checking for ref index
+
+Performing alignment and sorting
+{ bwa mem -t 24 /expanse/lustre/projects/csd714/edwin5588/CCLE/run_aa/SRR8639208/.data_repo/GRCh38/GCA_000001405.15_GRCh38_no_alt_analysis_set.fa /expanse/lustre/projects/csd714/edwin5588/CCLE/run_aa/SRR8639208/SRR8639208_1.fastq /expanse/lustre/projects/csd714/edwin5588/CCLE/run_aa/SRR8639208/SRR8639208_2.fastq | samtools view -Shu - | samtools sort -m 4G -@4 -o /expanse/lustre/projects/csd714/edwin5588/CCLE/run_aa/SRR8639208/SRR8639208.cs.bam -; } 2>/expanse/lustre/projects/csd714/edwin5588/CCLE/run_aa/SRR8639208/SRR8639208_aln_stage.stderr
+
+Performing duplicate removal & indexing
+samtools rmdup -s /expanse/lustre/projects/csd714/edwin5588/CCLE/run_aa/SRR8639208/SRR8639208.cs.bam /expanse/lustre/projects/csd714/edwin5588/CCLE/run_aa/SRR8639208/SRR8639208.cs.rmdup.bam
+
+Running samtools index
+samtools index /expanse/lustre/projects/csd714/edwin5588/CCLE/run_aa/SRR8639208/SRR8639208.cs.rmdup.bam
+Removing temp BAM
+
+Running CNVKit batch
+python3 /opt/genepatt/programs/cnvkit.py batch -m wgs -r /expanse/lustre/projects/csd714/edwin5588/CCLE/run_aa/SRR8639208/.data_repo/GRCh38/GRCh38_cnvkit_filtered_ref.cnn -p 24 -d /expanse/lustre/projects/csd714/edwin5588/CCLE/run_aa/SRR8639208/SRR8639208_cnvkit_output/ /expanse/lustre/projects/csd714/edwin5588/CCLE/run_aa/SRR8639208/SRR8639208.cs.rmdup.bam
+
+Running CNVKit segment
+python3 /opt/genepatt/programs/cnvkit.py segment /expanse/lustre/projects/csd714/edwin5588/CCLE/run_aa/SRR8639208/SRR8639208_cnvkit_output/SRR8639208.cs.rmdup.cnr  -p 24 -m cbs -o /expanse/lustre/projects/csd714/edwin5588/CCLE/run_aa/SRR8639208/SRR8639208_cnvkit_output/SRR8639208.cs.rmdup.cns
+
+Cleaning up temporary files
+rm /expanse/lustre/projects/csd714/edwin5588/CCLE/run_aa/SRR8639208/SRR8639208_cnvkit_output//*tmp.bed /expanse/lustre/projects/csd714/edwin5588/CCLE/run_aa/SRR8639208/SRR8639208_cnvkit_output//*.cnn
+gzip /expanse/lustre/projects/csd714/edwin5588/CCLE/run_aa/SRR8639208/SRR8639208_cnvkit_output/SRR8639208.cs.rmdup.cnr
+
+Running amplified_intervals
+python2 /opt/genepatt/programs/AmpliconArchitect-master/src/amplified_intervals.py --ref GRCh38 --bed /expanse/lustre/projects/csd714/edwin5588/CCLE/run_aa/SRR8639208/SRR8639208_cnvkit_output/SRR8639208.cs.rmdup_CNV_GAIN.bed --bam /expanse/lustre/projects/csd714/edwin5588/CCLE/run_aa/SRR8639208/SRR8639208.cs.rmdup.bam --gain 4.5 --cnsize_min 50000 --out /expanse/lustre/projects/csd714/edwin5588/CCLE/run_aa/SRR8639208/SRR8639208_AA_CNV_SEEDS
+Completed
+
+2022-05-11 13:08:35.842275
+Finished Running
+Current time : Wed May 11 13:08:36 PDT 2022
